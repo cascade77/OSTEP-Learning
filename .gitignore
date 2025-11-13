@@ -1,0 +1,5 @@
+cpu
+mem
+*.out
+a.out
+*.o
